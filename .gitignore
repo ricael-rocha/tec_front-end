@@ -1,0 +1,4 @@
+.rar
+*.json
+.hintrc
+node_modules
